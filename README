@@ -1,0 +1,5 @@
+Java application for fetching the Twitter statuses of a user. I tend to use it for backing up my Tweets.
+
+java twitterFetcher <feed url> <file> <username> <password>
+
+
